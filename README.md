@@ -2,8 +2,7 @@
 
 最流行的未必是最合适的，2013 年的阿里技术嘉年华，绝响。
 
-
-## Content
+总目录：
 
 1.  [阿里分布式数据库服务原理与实践](http://topic.it168.com/factory/adc2013/doc/shenxun.pdf)
 2.  [实时计算服务化实践](http://topic.it168.com/factory/adc2013/doc/qiangqi.pdf)
@@ -137,6 +136,112 @@
 130.  [OpenStack Summit Intel Efforts](http://topic.it168.com/factory/adc2013/doc/wangqing.pdf)
 131.  [纠错码技术在hadoop分布式文件系统的应用](http://topic.it168.com/factory/adc2013/doc/jinjun.pdf)
 132.  [利用固态硬盘解决存储瓶颈](http://topic.it168.com/factory/adc2013/doc/nijingfeng.pdf)
+
+
+不完全分类：
+
+
+测试：
+
+85.  [Fault injection实现原理与应用](http://topic.it168.com/factory/adc2013/doc/liguodong.pptx)
+86.  [iOS WEB自动化测试方案的探索与实践](http://topic.it168.com/factory/adc2013/doc/banjun.pdf)
+81.  [Android自动化测试](http://topic.it168.com/factory/adc2013/doc/jiale.pptx)
+88.  [建设持续交付组织](http://topic.it168.com/factory/adc2013/doc/jinming.pdf)
+89.  [数据质量中心的设计与实现](http://topic.it168.com/factory/adc2013/doc/xiemin.pptx)
+91.  [无线质量全过程保障实践](http://topic.it168.com/factory/adc2013/doc/xiapeifang.pptx)
+87.  [更好更快的Android自动化测试](http://topic.it168.com/factory/adc2013/doc/luxiaoyu.pptx)
+
+
+大数据应用：
+
+46.  [大数据时代的月光宝盒](http://topic.it168.com/factory/adc2013/doc/zhangmaosen.pptx)
+52.  [实时计算平台及相关业务实践](http://topic.it168.com/factory/adc2013/doc/chaihua.pptx)
+2.  [实时计算服务化实践](http://topic.it168.com/factory/adc2013/doc/qiangqi.pdf)
+3.  [构建一个跨机房的Hadoop集群](http://topic.it168.com/factory/adc2013/doc/wuwei.pptx)
+54.  [腾讯广点通的数据挖掘](http://topic.it168.com/factory/adc2013/doc/xiaolei.pptx)
+43.  [阿里巴巴离线大数据处理平台概述](http://topic.it168.com/factory/adc2013/doc/tangzinan.pptx)
+56.  [页面资源位监测和价值分析](http://topic.it168.com/factory/adc2013/doc/zhaowenbo.pptx)
+39.  [CAP 理论与实践](http://topic.it168.com/factory/adc2013/doc/tongjiawang.pptx)
+41.  [MySQL at NetEase](http://topic.it168.com/factory/adc2013/doc/jianchengyao.pdf)
+42.  [OceanBase0.4：从API到SQL](http://topic.it168.com/factory/adc2013/doc/yangchuanhui.pptx)
+50.  [如何打造360 MySQL服务](http://topic.it168.com/factory/adc2013/doc/yangting.pdf)
+55.  [小公司的服务管理和监控成长之路](http://topic.it168.com/factory/adc2013/doc/laiwei.pptx)
+44.  [阿里“去IOE”实践](http://topic.it168.com/factory/adc2013/doc/chenzhaoshan.pptx)
+59.  [开源软件的商业价值](http://topic.it168.com/factory/adc2013/doc/michael.pdf)
+
+
+大数据应用2：
+
+38.  [DBFree-阿里数据库自动化运维平台](http://topic.it168.com/factory/adc2013/doc/yangxu.pptx)
+40.  [iDB-阿里集团数据库服务平台](http://topic.it168.com/factory/adc2013/doc/yezhengsheng.pptx)
+45.  [阿里数据同步前世今生](http://topic.it168.com/factory/adc2013/doc/chenshouyuan.pptx)
+47.  [分布式数据分析算法](http://topic.it168.com/factory/adc2013/doc/yangxu2.pptx)
+49.  [大众点评网高可用数据架构](http://topic.it168.com/factory/adc2013/doc/lujunyi.pdf)
+
+开源技术：
+
+121.  [canal产品介绍](http://topic.it168.com/factory/adc2013/doc/loujianghang.ppt)
+122.  [Druid数据库连接池介绍](http://topic.it168.com/factory/adc2013/doc/wenshaojing.pptx)
+123.  [Dubbo开源](http://topic.it168.com/factory/adc2013/doc/liangfei.pptx)
+124.  [Fastjson介绍](http://topic.it168.com/factory/adc2013/doc/wenshaojing2.pptx)
+125.  [Introduction to KISSY](http://topic.it168.com/factory/adc2013/doc/heyiming.pdf)
+127.  [OceanBase介绍](http://topic.it168.com/factory/adc2013/doc/yangchuanhui2.pptx)
+128.  [tengine介绍](http://topic.it168.com/factory/adc2013/doc/yaoweibing2.pptx)
+129.  [Tsar介绍](http://topic.it168.com/factory/adc2013/doc/like.pptx)
+
+
+搜索：
+
+68.  [实时个性化系统和应用](http://topic.it168.com/factory/adc2013/doc/linjianguo.pptx)
+70.  [一站式搜索服务平台-Tsearcher](http://topic.it168.com/factory/adc2013/doc/liuming.pptx)
+62.  [个性化搜索技术和应用](http://topic.it168.com/factory/adc2013/doc/chenxi.pptx)
+61.  [垂直抓取系统——EtaoSpider介绍](http://topic.it168.com/factory/adc2013/doc/xiezhenliang.pptx)
+7.  [基于Hadoop\_HBase的一淘搜索离线系统](http://topic.it168.com/factory/adc2013/doc/wangfeng.pptx)
+67.  [搜索引擎和淘宝搜索不得不说的故事](http://topic.it168.com/factory/adc2013/doc/zhengnan.pptx)
+
+搜索2：
+
+60.  [CM–集群管理与负载均衡系统](http://topic.it168.com/factory/adc2013/doc/sunquan.pptx)
+69.  [文本挖掘在电子商务场景中的应用](http://topic.it168.com/factory/adc2013/doc/sunjian.pptx)
+65.  [机器学习在搜索排序中的应用](http://topic.it168.com/factory/adc2013/doc/zenganxiang.pptx)
+64.  [海量商品的聚合技术及其在搜索中的应用](http://topic.it168.com/factory/adc2013/doc/minghu.pptx)
+
+系统运维及开发：
+
+98.  [TCPFLOW业务网络服务质量分析](http://topic.it168.com/factory/adc2013/doc/zhuyouzhi.pdf)
+6.  [探求计算性能极限-探求计算密集应用优化的天花板](http://topic.it168.com/factory/adc2013/doc/wangzheng.pdf)
+100.  [海量未知木马机器分析](http://topic.it168.com/factory/adc2013/doc/huangzheng.pptx)
+101.  [深入理解CPU的读写及优化](http://topic.it168.com/factory/adc2013/doc/maling.pdf)
+103.  [自动化运维和数据化运维-从硬盘开始](http://topic.it168.com/factory/adc2013/doc/liuyi.pdf)
+99.  [高性能网关产品的设计与实践](http://topic.it168.com/factory/adc2013/doc/wangxinpu.pdf)
+
+
+业务架构_后端技术：
+
+15.  [淘宝网CRM平台架构for ADC](http://topic.it168.com/factory/adc2013/doc/yunguang.pdf)
+17.  [Inside TAE](http://topic.it168.com/factory/adc2013/doc/liuhaoyu.pdf)
+23.  [互联网系统的稳定性保证：微博的实践](http://topic.it168.com/factory/adc2013/doc/hongxiaojun.pdf)
+12.  [去哪儿酒店实时搜索技术分享](http://topic.it168.com/factory/adc2013/doc/liuyue.pdf)
+10.  [百度媒体云技术及架构](http://topic.it168.com/factory/adc2013/doc/chenbing.pdf)
+1.  [阿里分布式数据库服务原理与实践](http://topic.it168.com/factory/adc2013/doc/shenxun.pdf)
+18.  [Nashorn与JDK8——动态语言在JVM上的高性能实现](http://topic.it168.com/factory/adc2013/doc/mosu.pdf)
+11.  [后端-大型网站SEO优化实践](http://topic.it168.com/factory/adc2013/doc/zhouwenjun.pdf)
+24.  [基于OpenStack构建网易云主机服务](http://topic.it168.com/factory/adc2013/doc/zhangxiaolong.pdf)
+28.  [天猫个性化推荐架构](http://topic.it168.com/factory/adc2013/doc/zhangqi.pdf)
+25.  [架构模式与实践漫谈](http://topic.it168.com/factory/adc2013/doc/wangfuqiang.pdf)
+27.  [淘宝文本中的语义分析以及技术展望](http://topic.it168.com/factory/adc2013/doc/wangtianzhou.pdf)
+13.  [淘宝消息中间件技术演变](http://topic.it168.com/factory/adc2013/doc/zhanglewei.pdf)
+
+
+业务架构_后端技术2：
+
+14.  [AB测试和灰度发布平台架构设计和实践](http://topic.it168.com/factory/adc2013/doc/oucheng.pdf)
+16.  [HouseMD介绍](http://topic.it168.com/factory/adc2013/doc/jushi.pdf)
+19.  [Scala中的函数式特征与并发](http://topic.it168.com/factory/adc2013/doc/wanghongjiang.pdf)
+20.  [TMS模块化页面搭建平台](http://topic.it168.com/factory/adc2013/doc/fangjun.pdf)
+21.  [Web页面分层交叉实验](http://topic.it168.com/factory/adc2013/doc/chendong.pdf)
+22.  [北冥神功- 新一代数据查询中间层](http://topic.it168.com/factory/adc2013/doc/zhijiale.pdf)
+26.  [容量规划与授权限流降级](http://topic.it168.com/factory/adc2013/doc/zhangjun.pdf)
 
 
 via [2013ADC阿里技术嘉年华演讲PPT分享\_IT168文库](http://topic.it168.com/factory/adc2013/)
