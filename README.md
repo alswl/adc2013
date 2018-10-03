@@ -2,7 +2,7 @@
 
 最流行的未必是最合适的，2013 年的阿里技术嘉年华，绝响。
 
-总目录：
+Index:
 
 1.  [阿里分布式数据库服务原理与实践](http://topic.it168.com/factory/adc2013/doc/shenxun.pdf)
 2.  [实时计算服务化实践](http://topic.it168.com/factory/adc2013/doc/qiangqi.pdf)
@@ -138,7 +138,7 @@
 132.  [利用固态硬盘解决存储瓶颈](http://topic.it168.com/factory/adc2013/doc/nijingfeng.pdf)
 
 
-## Index
+## Topic based Index
 
 ```
 .
@@ -285,5 +285,5 @@
 ```
 
 
-via [2013ADC阿里技术嘉年华演讲PPT分享\_IT168文库](http://topic.it168.com/factory/adc2013/)
-via [大会回顾 - 技术嘉年华](https://web.archive.org/web/20130805123440/http://adc.alibabatech.org/)
+*	via [2013ADC阿里技术嘉年华演讲PPT分享\_IT168文库](http://topic.it168.com/factory/adc2013/)
+*	via [大会回顾 - 技术嘉年华](https://web.archive.org/web/20130805123440/http://adc.alibabatech.org/)
